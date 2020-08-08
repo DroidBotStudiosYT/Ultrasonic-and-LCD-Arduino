@@ -39,3 +39,4 @@ Or you code just open Ultrasonic.ino right here and copy and paste the code. Go 
 # Library Extra
 
 I also included another library that you could use for better communication, I would actually update it to I^2C and use that for clock communications.
+(It would relate)
