@@ -14,7 +14,7 @@ Breadboard 170 Tie
 
 Arduino Uno Microcontroller
 
-Pizeo Passive Buzzer (Mini)
+Piezo Passive Buzzer (Mini)
 
 Potentiometer
 
