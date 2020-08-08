@@ -35,3 +35,7 @@ Download this `ZIP` file and extract it from your donwloads folder, then pull ou
 Or you code just open Ultrasonic.ino right here and copy and paste the code. Go to the Screenshot file for the circuit wiring.
 
 ***Note*** THIS DOES NOT CONTAIN ANY LIBRARIES 
+
+# Library Extra
+
+I also included another library that you could use for better communication, I would actually update it to I^2C and use that for clock communications.
