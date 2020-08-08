@@ -1,37 +1,36 @@
-# Ultrasonic-and-LCD-Arduino
+2017 Announcement:
+I am happy to announce new project
+https://github.com/omersiar/esp-rfid
+ESP-RFID Access Control with ESP8266
 
-Ultrasonic sensor time!
+Arduino RC522 RFID Access Control
+=======
+July/2014 Omer Siar Baysal
 
-# Components
+--------
 
-Ultrasonic Sensor
+Arduino RFID Access Control using a RC522 RFID 
+reader with SPI interface on your Arduino
 
-Liquid Crystal Display
+For now there is 3 version of Access Control
 
-Breadboard 400 Tie
+**EEPROM Version**
 
-Breadboard 170 Tie
+Storing data on EEPROM, Stable, Basic System
 
-Arduino Uno Microcontroller
+**SD Version - Work In Progress**
 
-Pizeo Passive Buzzer (Mini)
+Storing data on SD Card, more features will be added like 
+USER management
+Tracking with Real Time Clock
 
-Potentiometer
+**Embedded System - Work In Progress**
 
-Jumperwires
+Complete RFID solution with
+Networked Web Interface
+USER management
+Tracking with Real Time Clock
+Cross-Platform Management Application
 
-# Youtube
-
-Check out my youtube!
-
-Link for video -
-
-Link for channel - https://www.youtube.com/channel/UCelA-zYF_DzKV0oeA6w0uEw?view_as=subscriber
-
-# How-To
-
-Download this `ZIP` file and extract it from your donwloads folder, then pull out and navigate to the Ultrasonic.ino page, and copy the code.
-
-Or you code just open Ultrasonic.ino right here and copy and paste the code. Go to the Screenshot file for the circuit wiring.
-
-***Note*** THIS DOES NOT CONTAIN ANY LIBRARIES 
+More info on: 
+http://forum.arduino.cc/index.php?topic=256260
