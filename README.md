@@ -32,6 +32,6 @@ Link for channel - https://www.youtube.com/channel/UCelA-zYF_DzKV0oeA6w0uEw?view
 
 Download this `ZIP` file and extract it from your donwloads folder, then pull out and navigate to the Ultrasonic.ino page, and copy the code.
 
-Or you code just open Ultrasonic.ino right here and copy and paste the code.
+Or you code just open Ultrasonic.ino right here and copy and paste the code. Go to the Screenshot file for the circuit wiring.
 
-***Note*** THIS DOES NOT CONTAIN ANY LIBRARIES
+***Note*** THIS DOES NOT CONTAIN ANY LIBRARIES 
